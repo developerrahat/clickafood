@@ -268,7 +268,8 @@ img{
 /* ------------ About Us Section Start ------------- */
 .about_section, .how_it_work{
   padding: 80px 0;
- background: #F9F7F7;
+  background: #F9F7F7;
+  overflow: hidden;
 }
 .about_right_content p{}
 .sec_heading{
