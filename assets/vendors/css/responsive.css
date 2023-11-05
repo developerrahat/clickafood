@@ -41,6 +41,9 @@
     .features_phone img {
         width: 330px;
     }
+    .footer {
+    padding: 20px 0;
+    }
     .footer::before {
         overflow: hidden;
         width: 228px;
