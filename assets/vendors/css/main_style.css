@@ -224,6 +224,7 @@ img{
 .hero_section{
   margin-top: 112px;
   padding: 60px 0;
+  overflow-x: hidden;
 }
 .hero_left_content{
   margin-left: 110px;
