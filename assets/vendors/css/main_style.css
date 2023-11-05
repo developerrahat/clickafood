@@ -768,7 +768,12 @@ img{
 	#back-to-top-btn { font-size: 22px; width: 40px; height: 40px; bottom: 15px; right: 15px; }
   }
   @media(max-width:768px) {
-	#back-to-top-btn { font-size: 18px; width: 32px; height: 32px; bottom: 6px; right: 6px; }
+   #back-to-top-btn {
+    font-size: 18px;
+    width: 35px;
+    height: 35px;
+    bottom: 12px;
+    right: 12px; }
   }
   
   /* Animations */
